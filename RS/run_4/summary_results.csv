@@ -1,0 +1,13 @@
+Attribute,Value
+Number Critical Scenarios,100
+Number Critical Scenarios (duplicate free),100
+Number All Scenarios,2000
+Number All Scenarios (duplicate free),2000
+Number Best Critical Scenarios,6
+Number Best Critical Scenarios (duplicate free),6
+Number Best Scenarios,9
+Number Best Scenarios (duplicate free),9
+Ratio Critical/All scenarios,0.05
+Ratio Critical/All scenarios (duplicate free),0.05
+Ratio Best Critical/Best Scenarios,0.67
+Ratio Best Critical/Best Scenarios (duplicate free),0.67
