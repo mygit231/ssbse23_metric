@@ -1,5 +1,5 @@
 #  Data for Empirical Study Failure-Space Coverage
-This repository holds the results of the empirical study from the paper "Can Optimization-Driven SBST Effectively Cover Failure-Inducing Areas in a Search Domain? Insights from an ADS Case Study".
+This repository holds the results of the empirical study from the paper **"Can Optimization-Driven SBST Effectively Cover Failure-Inducing Areas in a Search Domain? Insights from an ADS Case Study"**.
 In this study the optimization algorithm NSGA-II is compared with random search in identifying failure revealing areas of an automated valet parking system.
 
 ## Implementation
@@ -47,7 +47,7 @@ GS | 15625 |  [here](cid/gs_25/combined_CID.csv)
 
 ### Grid sampling
 
-15625 samples (25/axis)      |  8000 samples (20/axis)  | 1000 samples (10/axis)
+15625 samples (25/axis)*      |  8000 samples (20/axis)*  | 1000 samples (10/axis)*
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="ref_set/gs_25/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/> |  <img src="ref_set/gs_20/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/>  |<img src="ref_set/gs_10/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/>
 
@@ -55,10 +55,11 @@ GS | 15625 |  [here](cid/gs_25/combined_CID.csv)
 ### Furthest point sampling
 
 
-8000 samples      |  1000 samples | 512 samples
+8000 samples*    |  1000 samples* | 512 samples*
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="ref_set/fps_8000/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/> |  <img src="ref_set/fps_1000/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/>  |<img src="ref_set/fps_500/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/>
 
+*: Note, this is the total number of samples, not only the failure-revealing ones. While in the plots only failing samples are displayed.
 
 ## Failing Tests Single Runs
 
