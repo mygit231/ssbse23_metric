@@ -4,7 +4,7 @@ In this study the optimization algorithm NSGA-II is compared with random search 
 
 ## Implementation
 
-The empirical study have been implemented using the [pymoo](pymoo.org) framework.
+The empirical study have been implemented using the [pymoo](https://pymoo.org) framework.
 The implemenation of the CID metric is provided [here](code/metric/cid.py). The implemenation of grid sampling (GS) and furthest point sampling (FPS) is provided here [here](code/sampling/gs.py) and [here](code/sampling/fps.py).
 
 ## Evaluation Results
@@ -17,7 +17,7 @@ The following plot shows comparison of CID over 10 runs for NSGA-II and RS:
 
 <img src="cid/gs_25/subplots_combined_ds.png" alt="results_10_runs" width="600"/>
 
-The detailed *CID* results/values are available here: [CID](/cid/gs_25/combined_igde.csv).
+The detailed *CID* results/values are available here: [CID](/cid/gs_25/combined_CID.csv).
 
 In the following we see an overview of *CID* values for each particular run:
 
