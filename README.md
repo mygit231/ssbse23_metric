@@ -55,7 +55,7 @@ GS | 15625 |  [here](cid/gs_25/combined_CID.csv)
 ### Furthest point sampling
 
 
-8000 samples*    |  1000 samples* | 512 samples*
+8000 samples*    |  1000 samples* | 500 samples*
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="ref_set/fps_8000/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/> |  <img src="ref_set/fps_1000/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/>  |<img src="ref_set/fps_500/design_space_3d_angle(45, -45).png" alt="refset_gs_25" width="400"/>
 
