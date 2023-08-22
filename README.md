@@ -30,7 +30,13 @@ The CID values for each run after the 2000 evaluation are available [here](cid/g
 
 ### CID Robustness Study
 
-The evaluation of the robustness of CID w.r.t. using another sampling for the refence set such as FPS and other resolutions is provided below:
+The evaluation of the robustness of CID w.r.t. using another sampling for the reference set such as FPS and other resolutions is provided below.
+
+Comparison Using Different GS Resolutions      |  Comparison Using FPS instead GS
+:-------------------------:|:-------------------------:
+<img src="cid/comparison/subplots_combined_gs.png" alt="comparison_gs" width="400"/> |  <img src="cid/comparison/subplots_combined_gs_fps.png" alt="comparison_gs_fps" width="400"/> 
+
+The concrete CID values and further comparisons can be found using the following table:
 
 Sampling        |  Number Samples | link
 :-------------------------:|:-------------------------:|:--------------
