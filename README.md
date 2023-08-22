@@ -34,7 +34,7 @@ The evaluation of the robustness of CID w.r.t. using another sampling for the re
 
 Comparison Using Different GS Resolutions      |  Comparison Using FPS instead GS
 :-------------------------:|:-------------------------:
-<img src="cid/comparison/subplots_combined_gs.png" alt="comparison_gs" width="400"/> |  <img src="cid/comparison/subplots_combined_gs_fps.png" alt="comparison_gs_fps" width="400"/> 
+<img src="cid/comparison/subplots_combined_gs_fps.png" alt="comparison_gs" width="450"/> |  <img src="cid/comparison/subplots_combined_gs.png" alt="comparison_gs_fps" width="450"/> 
 
 The concrete CID values and further comparisons can be found using the following table:
 
